@@ -1,0 +1,13 @@
+.content .contact{
+    width: 90%;
+    height: 400px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.content .contact ul{
+    width: 90%;
+    padding-left: 45px;
+    
+    font-size: 20px;
+    line-height: 50px;
+}
